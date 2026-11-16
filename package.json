@@ -1,0 +1,13 @@
+{
+  "name": "hamza-toptal-interview-presentation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Interactive 16:9 product design interview presentation for Hamza Bin Shiraz",
+  "scripts": {
+    "dev": "python3 -m http.server 4173 --bind 127.0.0.1",
+    "check": "node scripts/check-project.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
